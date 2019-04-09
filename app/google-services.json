@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "126337858152",
+    "firebase_url": "https://bagifoto-a06d7.firebaseio.com",
+    "project_id": "bagifoto-a06d7",
+    "storage_bucket": "bagifoto-a06d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126337858152:android:259da05e0333f0d8",
+        "android_client_info": {
+          "package_name": "com.muhadif.bagifoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126337858152-2gjlnvqi2rhb2fb5o9astae0mg0k514h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhadif.bagifoto",
+            "certificate_hash": "d28412c8718ec6e2a75d802525d5f4326a19fa5a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_A4fePQBpbdUKzuUuspZMdRJbpzIJ1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126337858152-da1tbhr2hsb9ispidk13k3j363f6pqcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
